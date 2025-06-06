@@ -24,5 +24,6 @@ navegador usando o IP público da instância: "http://<seu-ip>:8501"
 
 ![image](https://github.com/user-attachments/assets/1cecd342-e7d5-4af7-b158-a953ace2ca84)
 
-![image](https://github.com/user-attachments/assets/d7bbb4c1-a918-4e32-8d45-10cb52625f79)
+![image](https://github.com/user-attachments/assets/7331932f-c110-432b-9aac-a86bffd6f92f)
 
+[Baixar o arquivo CSV](./MS_Financial_Sample.csv)
