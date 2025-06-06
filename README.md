@@ -1,4 +1,4 @@
-# Avalia-o_StreamLit
+# Avaliação_StreamLit
 O que foi feito na avaliação
 
 Crie uma instância EC2 (Ubuntu22.04 ou superior).
