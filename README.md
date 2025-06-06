@@ -21,3 +21,8 @@ EC2 na para fazer o deploy do serviço:
 
 Acesse sua aplicação no
 navegador usando o IP público da instância: "http://<seu-ip>:8501"
+
+![image](https://github.com/user-attachments/assets/1cecd342-e7d5-4af7-b158-a953ace2ca84)
+
+![image](https://github.com/user-attachments/assets/d7bbb4c1-a918-4e32-8d45-10cb52625f79)
+
