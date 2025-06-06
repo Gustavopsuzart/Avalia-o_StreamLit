@@ -26,4 +26,3 @@ navegador usando o IP público da instância: "http://<seu-ip>:8501"
 
 ![image](https://github.com/user-attachments/assets/7331932f-c110-432b-9aac-a86bffd6f92f)
 
-[Baixar o arquivo CSV](./MS_Financial_Sample.csv)
